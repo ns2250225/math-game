@@ -1,0 +1,5 @@
+{
+  "name":"Math Rush 算术冲刺","short_name":"Math Rush","start_url":"./","display":"standalone",
+  "background_color":"#080b16","theme_color":"#080b16","description":"答对续命，越强越快。",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
